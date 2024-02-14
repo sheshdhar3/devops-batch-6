@@ -1,0 +1,7 @@
+This is a file for today'commands.
+
+git init
+git add
+git status
+git commit
+
